@@ -1,2 +1,2 @@
-# grapghql_data
+# GraphQL_data_Firebase
 Graphql data store
